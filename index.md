@@ -12,17 +12,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # PRESENTATION 
+
 MOKOU ABOUBAKAR SIDIK RAMADAN
-Né le 27 Janvier 1998 à Douala CamerouN
+Né le 27 Janvier 1998 à Douala Cameroun
 Numero Resident Belge : 98 01 27 743 27
 ADRESSE : Avenue du Roi  chevalier 51 
-LOCALISATION: Nimy Mons 7020
+Localisatio: Nimy Mons 7020
 Tel : 04 67 79 31 66
 Email: kadhafimokou@gmail.com
 
-## Header 2
-
-FORMATIONS  SCOLAIRE ET ACADEMIQUES
+## FORMATIONS SCOLAIRES ET ACADEMIQUES
 
 2015: Baccalaureat en Philosophie, Litterature et Langues Option Espagnol
 
@@ -30,14 +29,12 @@ FORMATIONS  SCOLAIRE ET ACADEMIQUES
 En faculté des lettres et des sciences humaines l Universite de Douala
 
 2020: Master en Management de la communication des entreprises 
-L   ESSEC DE DOUALA 
+L ESSEC de Douala
 
 2020:Etudiant
 Cycle de Master  en STIC à ULB
 
-### Header 
-
-EXPERIENCES PROFESSIONNELLES
+### EXPERIENCES PROFESSIONNELLES
 
 2016-2017: Assistant de Traduction au centre linguistique de Bonamoussadi
 2018-2019 :  Assistant du Community Manager de Venus Communication
