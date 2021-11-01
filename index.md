@@ -25,8 +25,7 @@ FORMATIONS  SCOLAIRE ET ACADEMIQUES
 En faculté des lettres et des sciences humaines l Universite de Douala
 
 2020: Master en Management de la communication des entreprises 
-L  Ecole Superieur des Sciences Economiques et  de Commerce de  DOUALA
-
+L   ESSEC DE DOUALA 
 2020:Etudiant
 Cycle de Master  en STIC à ULB
 ### Header 
