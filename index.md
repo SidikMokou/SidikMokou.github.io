@@ -15,8 +15,13 @@ Syntax highlighted code block
 MOKOU ABOUBAKAR SIDIK RAMADAN
 Né le 27 Janvier 1998 à Douala CamerouN
 Numero Resident Belge : 98 01 27 743 27
+ADRESSE : Avenue du Roi  chevalier 51 
+LOCALISATION: Nimy Mons 7020
+Tel : 04 67 79 31 66
+Email: kadhafimokou@gmail.com
 
 ## Header 2
+
 FORMATIONS  SCOLAIRE ET ACADEMIQUES
 
 2015: Baccalaureat en Philosophie, Litterature et Langues Option Espagnol
@@ -26,15 +31,28 @@ En faculté des lettres et des sciences humaines l Universite de Douala
 
 2020: Master en Management de la communication des entreprises 
 L   ESSEC DE DOUALA 
+
 2020:Etudiant
 Cycle de Master  en STIC à ULB
+
 ### Header 
 
-- Bulleted
-- List
+EXPERIENCES PROFESSIONNELLES
 
-1. Numbered
-2. List
+2016-2017: Assistant de Traduction au centre linguistique de Bonamoussadi
+2018-2019 :  Assistant du Community Manager de Venus Communication
+2019- 2020: Assistabt de responsable chargé des relation publiques de Venus Group
+
+#### COMPETENCES ET CENTRES D INTERET
+-  Microsoft Word ,Excel , Powerpoint
+- Sport
+- Digital (Communication)
+-  Culure 
+
+##### NIVEAU DE LANGUE
+1.  Français 5/5
+2. Anglais 3/5
+3. Espagnol 3/5
 
 **Bold** and _Italic_ and `Code` text
 
