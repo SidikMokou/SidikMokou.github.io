@@ -18,14 +18,18 @@ Numero Resident Belge : 98 01 27 743 27
 
 ## Header 2
 FORMATIONS  SCOLAIRE ET ACADEMIQUES
+
 2015: Baccalaureat en Philosophie, Litterature et Langues Option Espagnol
+
 2018: Licence  ANLE (Anglais et Langues etrangères option Espagnol) 
 En faculté des lettres et des sciences humaines l Universite de Douala
-2020: Master en Management de la communication des entreprises
- à l  Ecole Superieure des Sciences Economique et de Commerce de L universite de Douala
-2020: Etudiant (Master en sciences et technologies de l information et de la communication) 
-à ULB
-### Header 3
+
+2020: Master en Management de la communication des entreprises 
+L  Ecole Superieur des Sciences Economiques et  de Commerce de  DOUALA
+
+2020:Etudiant
+Cycle de Master  en STIC à ULB
+### Header 
 
 - Bulleted
 - List
