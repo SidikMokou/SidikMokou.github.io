@@ -16,8 +16,8 @@ Syntax highlighted code block
 MOKOU ABOUBAKAR SIDIK RAMADAN
 Né le 27 Janvier 1998 à Douala Cameroun
 Numero Resident Belge : 98 01 27 743 27
-ADRESSE : Avenue du Roi  chevalier 51 
-Localisatio: Nimy Mons 7020
+Adresse : Avenue du Roi Chevalier 51
+Localisation : Nimy Mons 7020
 Tel : 04 67 79 31 66
 Email: kadhafimokou@gmail.com
 
